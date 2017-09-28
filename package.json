@@ -1,0 +1,11 @@
+{
+  "name": "watson",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:Avocarrot/watson.git",
+  "author": "Dmtrs Mengidis <tydeas.dr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "winston": "^2.3.1"
+  }
+}
